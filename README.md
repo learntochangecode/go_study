@@ -1,2 +1,3 @@
 # go_study
-my go_study project!
+go语言学习项目
+from 2024.8.5
